@@ -1,0 +1,239 @@
+[
+
+  {
+    "id": 3,
+    "name": "Eyeshadow Palette",
+    "price": 1200,
+    "category": "Makeup",
+    "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=400&q=80",
+    "description": "12 curated neutrals and smoky shades. Matte, shimmer and glitter finish."
+  },
+  {
+    "id": 4,
+    "name": "Mascara",
+    "price": 620,
+    "category": "Makeup",
+    "image": "https://images.unsplash.com/photo-1591360236480-4ed861025fa1?w=400&q=80",
+    "description": "Volumizing and lengthening in one stroke. Smudge-proof all day."
+  },
+
+  {
+    "id": 6,
+    "name": "Highlighter",
+    "price": 780,
+    "category": "Makeup",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&q=80",
+    "description": "Finely-milled pearl pigment. Lit-from-within glow on cheeks and brow bone."
+  },
+
+
+  {
+    "id": 9,
+    "name": "Blush",
+    "price": 680,
+    "category": "Makeup",
+    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=400&q=80",
+    "description": "Silky powder blush in a rosy coral. Natural flush, buildable intensity."
+  },
+  {
+    "id": 10,
+    "name": "Setting Spray",
+    "price": 550,
+    "category": "Makeup",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=400&q=80",
+    "description": "Lock your makeup for 16 hours. Dewy or matte finish options."
+  },
+  {
+    "id": 11,
+    "name": "Face Serum",
+    "price": 2200,
+    "category": "Skincare",
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400&q=80",
+    "description": "Vitamin C + Hyaluronic Acid brightening serum. Glowing skin in 7 days."
+  },
+
+  {
+    "id": 13,
+    "name": "Facial Sunscreen",
+    "price": 850,
+    "category": "Skincare",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400&q=80",
+    "description": "SPF 50+ PA++++. Invisible finish, reef-safe formula."
+  },
+
+  {
+    "id": 15,
+    "name": "Retinol Cream",
+    "price": 2800,
+    "category": "Skincare",
+    "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=400&q=80",
+    "description": "0.3% retinol night cream. Smooths fine lines while you sleep."
+  },
+  {
+    "id": 16,
+    "name": "Pearl Earrings",
+    "price": 950,
+    "category": "Jewellery",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&q=80",
+    "description": "Freshwater pearls set in sterling silver. Classic forever."
+  },
+  {
+    "id": 17,
+    "name": "Hoop Earrings",
+    "price": 680,
+    "category": "Jewellery",
+    "image": "https://images.unsplash.com/photo-1630019852942-f89202989a59?w=400&q=80",
+    "description": "Oversized gold hoops in lightweight hollow construction. Always in style."
+  },
+  {
+    "id": 18,
+    "name": "Gold Necklace",
+    "price": 3500,
+    "category": "Jewellery",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400&q=80",
+    "description": "Delicate 18k gold chain with a teardrop pendant. Wear it every day."
+  },
+  {
+    "id": 19,
+    "name": "Gold Bracelet",
+    "price": 4200,
+    "category": "Jewellery",
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=400&q=80",
+    "description": "18k gold-plated chain bracelet. Minimal, luxurious, everyday."
+  },
+  {
+    "id": 20,
+    "name": "Diamond Ring",
+    "price": 12000,
+    "category": "Jewellery",
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&q=80",
+    "description": "Solitaire cut, platinum band. The definitive forever piece."
+  },
+  {
+    "id": 21,
+    "name": "Sapphire Pendant",
+    "price": 7800,
+    "category": "Jewellery",
+    "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=400&q=80",
+    "description": "Natural sapphire set in white gold. Rare color, lasting beauty."
+  },
+  {
+    "id": 22,
+    "name": "Nail Polish Set",
+    "price": 520,
+    "category": "Nails",
+    "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?w=400&q=80",
+    "description": "6 trending shades, chip-resistant formula. Salon finish at home."
+  },
+
+
+  {
+    "id": 26,
+    "name": "Makeup Brushes Set",
+    "price": 1800,
+    "category": "Tools",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=400&q=80",
+    "description": "12-piece professional brush set with synthetic taklon bristles."
+  },
+  {
+    "id": 27,
+    "name": "Beauty Blender",
+    "price": 480,
+    "category": "Tools",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&q=80",
+    "description": "Micro-foam applicator sponge. Seamless, streak-free foundation every time."
+  },
+
+  {
+    "id": 29,
+    "name": "Luxury Bag",
+    "price": 2500,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400&q=80",
+    "description": "Genuine leather, gold-tone hardware. A timeless statement piece."
+  },
+  {
+    "id": 30,
+    "name": "Cashmere Scarf",
+    "price": 1200,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?w=400&q=80",
+    "description": "100% Mongolian cashmere, feather-light and warm."
+  },
+  {
+    "id": 31,
+    "name": "Sunglasses",
+    "price": 750,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=400&q=80",
+    "description": "UV400 lenses in a sculpted acetate frame. Weekend royalty."
+  },
+  {
+    "id": 32,
+    "name": "Watch",
+    "price": 8500,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&q=80",
+    "description": "Rose gold case, mesh bracelet. Swiss movement, feminine precision."
+  },
+  {
+    "id": 33,
+    "name": "Handbag",
+    "price": 1900,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=400&q=80",
+    "description": "Structured pebbled leather tote. Carries your world in style."
+  },
+  {
+    "id": 34,
+    "name": "Silk Dress",
+    "price": 3000,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400&q=80",
+    "description": "Pure silk, hand-finished seams. Elegance you can feel."
+  },
+  {
+    "id": 35,
+    "name": "Light Jacket",
+    "price": 5500,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=400&q=80",
+    "description": "Classic double-breasted trench in premium cotton gabardine."
+  },
+
+  {
+    "id": 37,
+    "name": "Satin Blouse",
+    "price": 1400,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?w=400&q=80",
+    "description": "Fluid satin with a relaxed collar. Effortless luxury at work or dinner."
+  },
+
+  {
+    "id": 39,
+    "name": "Skirt",
+    "price": 1650,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=400&q=80",
+    "description": "Flowy chiffon in ivory. Moves beautifully, dresses up effortlessly."
+  },
+  {
+    "id": 40,
+    "name": "High Heels",
+    "price": 1800,
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=400&q=80",
+    "description": "Suede stilettos with an arch that commands attention."
+  },
+
+
+  {
+    "id": 44,
+    "name": "Mule Heels",
+    "price": 2400,
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1535043934128-cf0b28d52f95?w=400&q=80",
+    "description": "Pointed-toe leather mules on a block heel. Polished minimal chic."
+  }
+]
