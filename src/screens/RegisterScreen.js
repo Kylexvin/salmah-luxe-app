@@ -48,7 +48,7 @@ const handleRegister = async () => {
   } else {
     Alert.alert('Registration Failed', result.error || 'Please check your details');
   }
-};
+}; 
   return (
     <KeyboardAvoidingView
       style={styles.container}
