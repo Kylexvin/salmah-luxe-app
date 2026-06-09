@@ -1,0 +1,416 @@
+# SALMAH LUXE SHOP
+
+## Mobile Shopping Application
+
+### Course
+
+BIT4107 – Mobile Application Development
+
+### Student Name
+
+Salmah Bakari BIT/2025/31661
+
+### Technology Stack
+
+* React Native
+* Expo
+* JavaScript
+* React Navigation
+* GitHub
+* Expo Go
+
+---
+
+# 1. INTRODUCTION
+
+Mobile commerce has become an important part of modern business operations. Many small fashion businesses rely heavily on social media platforms such as WhatsApp and Instagram to market and sell products. However, customers often face difficulties browsing products in an organized manner.
+
+The Salmah Luxe Shop mobile application was developed as a simple fashion shopping platform that enables users to view available products, add items to a shopping cart, and place orders through WhatsApp.
+
+The application demonstrates practical mobile application development concepts including navigation, user interfaces, user authentication screens, state management, and integration with external applications.
+
+---
+
+# 2. PROBLEM STATEMENT
+
+Many small fashion businesses do not have dedicated mobile applications for displaying products and receiving customer orders.
+
+Customers are often required to browse through social media posts manually, making product discovery difficult and reducing the overall shopping experience.
+
+This project seeks to provide a simple mobile solution that allows customers to browse products, manage a shopping cart, and initiate purchases through WhatsApp.
+
+---
+
+# 3. PROJECT OBJECTIVES
+
+## Main Objective
+
+To design and develop a mobile shopping application for a fashion store using React Native and Expo.
+
+## Specific Objectives
+
+* To create a user-friendly mobile application interface.
+* To implement user registration and login screens.
+* To display fashion products in an organized manner.
+* To allow users to add products to a shopping cart.
+* To enable order placement through WhatsApp.
+* To implement profile management functionality.
+* To demonstrate practical mobile application development skills.
+
+---
+
+# 4. PROJECT SCOPE
+
+The project focuses on the development of a mobile shopping application prototype.
+
+The application includes:
+
+* User registration
+* User login
+* Product viewing
+* Cart management
+* Checkout functionality
+* WhatsApp integration
+* User profile management
+* Logout functionality
+
+The project does not include:
+
+* Online payment integration
+* Cloud database storage
+* Real-time inventory management
+* Administrative dashboard
+
+---
+
+# 5. SYSTEM REQUIREMENTS
+
+## Software Requirements
+
+* Visual Studio Code
+* Node.js
+* Expo CLI
+* Expo Go
+* Git
+* GitHub
+
+## Hardware Requirements
+
+* Laptop/Desktop Computer
+* Android Smartphone
+* Internet Connection
+
+---
+
+# 6. TECHNOLOGY STACK
+
+## React Native
+
+React Native was used to develop the mobile application because it supports cross-platform development and enables rapid mobile application creation using JavaScript.
+
+## Expo
+
+Expo was used to simplify development, testing, and deployment processes.
+
+## React Navigation
+
+React Navigation was used to implement screen-to-screen navigation throughout the application.
+
+## GitHub
+
+GitHub was used for source code management and version control.
+
+---
+
+# 7. SYSTEM DESIGN
+
+## Application Flow
+
+User launches application
+
+↓
+
+Login Screen
+
+↓
+
+Registration Screen (for new users)
+
+↓
+
+Home Screen
+
+↓
+
+Product Selection
+
+↓
+
+Cart
+
+↓
+
+Checkout
+
+↓
+
+WhatsApp Order
+
+↓
+
+Profile Screen
+
+↓
+
+Logout
+
+---
+
+# 8. SYSTEM FEATURES
+
+## 8.1 Login Screen
+
+The login screen allows users to enter their credentials before accessing the application.
+
+Features:
+
+* Email field
+* Password field
+* Login button
+* Registration link
+
+Benefits:
+
+* Provides controlled access to the application.
+* Introduces users to authentication workflows.
+
+---
+
+## 8.2 Registration Screen
+
+The registration screen allows new users to create an account.
+
+Features:
+
+* Name field
+* Email field
+* Password field
+* Registration button
+
+Benefits:
+
+* Allows new users to join the platform.
+* Demonstrates form handling functionality.
+
+---
+
+## 8.3 Home Screen
+
+The home screen displays available fashion products.
+
+Features:
+
+* Product cards
+* Product images
+* Product names
+* Product prices
+
+Benefits:
+
+* Enables users to browse products.
+* Provides a user-friendly shopping experience.
+
+---
+
+## 8.4 Cart Screen
+
+The cart screen stores products selected by the user.
+
+Features:
+
+* Product list
+* Quantity management
+* Total calculation
+
+Benefits:
+
+* Allows users to review their selections before checkout.
+
+---
+
+## 8.5 Checkout Screen
+
+The checkout screen prepares order information.
+
+Features:
+
+* Order summary
+* WhatsApp checkout button
+
+Benefits:
+
+* Simplifies communication between customer and seller.
+
+---
+
+## 8.6 Profile Screen
+
+The profile screen displays user information.
+
+Features:
+
+* User details
+* Logout button
+
+Benefits:
+
+* Improves user account management.
+
+---
+
+# 9. IMPLEMENTATION PROCESS
+
+The project was implemented using the following stages:
+
+## Stage 1: Project Setup
+
+* Created Expo project
+* Installed dependencies
+* Configured development environment
+
+## Stage 2: Navigation Development
+
+* Installed React Navigation
+* Created navigation structure
+
+## Stage 3: Screen Development
+
+* Login Screen
+* Registration Screen
+* Home Screen
+* Cart Screen
+* Checkout Screen
+* Profile Screen
+
+## Stage 4: Testing
+
+* Tested application using Expo Go
+* Verified navigation functionality
+* Verified cart operations
+* Verified WhatsApp integration
+
+## Stage 5: Deployment
+
+* Generated APK build using EAS Build
+* Uploaded source code to GitHub
+
+---
+
+# 10. TESTING
+
+The application was tested on Android devices using Expo Go.
+
+## Test Cases
+
+### Login Test
+
+Expected Result:
+User successfully enters the application.
+
+Status:
+Passed
+
+### Registration Test
+
+Expected Result:
+User account information accepted.
+
+Status:
+Passed
+
+### Add to Cart Test
+
+Expected Result:
+Selected products appear in cart.
+
+Status:
+Passed
+
+### Checkout Test
+
+Expected Result:
+WhatsApp opens with order information.
+
+Status:
+Passed
+
+### Logout Test
+
+Expected Result:
+User returns to login screen.
+
+Status:
+Passed
+
+---
+
+# 11. CHALLENGES ENCOUNTERED
+
+## Navigation Configuration
+
+Challenge:
+Managing movement between multiple screens.
+
+Solution:
+Implemented React Navigation stack navigation.
+
+## WhatsApp Integration
+
+Challenge:
+Redirecting users to WhatsApp.
+
+Solution:
+Used React Native Linking API.
+
+## User Interface Design
+
+Challenge:
+Creating a clean and modern user interface.
+
+Solution:
+Applied consistent styling and reusable components.
+
+---
+
+# 12. LESSONS LEARNED
+
+During the project, several lessons were learned:
+
+* Mobile applications require careful UI planning.
+* React Native enables rapid application development.
+* Expo simplifies testing and deployment.
+* Navigation is a critical component of mobile applications.
+* Version control using GitHub improves project management.
+* User experience plays a significant role in application usability.
+
+---
+
+# 13. FUTURE IMPROVEMENTS
+
+Future versions of the application may include:
+
+* Online payment integration
+* Firebase authentication
+* Cloud database storage
+* Order history tracking
+* Product search functionality
+* Push notifications
+* Admin dashboard
+
+---
+
+# 14. CONCLUSION
+
+The Salmah Luxe Shop mobile application was successfully developed using React Native and Expo. The project achieved its objectives by providing a simple and user-friendly shopping platform where users can browse products, add items to a cart, and place orders through WhatsApp.
+
+The project demonstrates practical mobile application development skills including user interface design, navigation implementation, application testing, version control, and mobile deployment. The application serves as a foundation for future expansion into a complete e-commerce platform.

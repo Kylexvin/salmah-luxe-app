@@ -1,0 +1,125 @@
+# Salmah Luxe Shop Development Logbook
+
+## Milestone 1: Project Setup
+
+### Activities Completed
+
+* Created React Native project using Expo.
+* Configured development environment.
+* Installed required dependencies.
+* Set up project folder structure.
+* Initialized Git repository.
+
+### Outcome
+
+A working project foundation was successfully established.
+
+
+
+## Milestone 2: Navigation Setup
+
+### Activities Completed
+
+* Installed React Navigation.
+* Created application navigation structure.
+* Configured screen routing.
+
+### Outcome
+
+Users can navigate between all screens within the application.
+
+
+
+## Milestone 3: Authentication Screens
+
+### Activities Completed
+
+* Developed Login Screen.
+* Developed Registration Screen.
+* Implemented form fields and validation.
+
+### Outcome
+
+Users can access the application through the authentication interface.
+
+
+
+## Milestone 4: Product Management Interface
+
+### Activities Completed
+
+* Developed Home Screen.
+* Created product listing interface.
+* Added product cards displaying item details.
+
+### Outcome
+
+Users can browse available products.
+
+
+
+## Milestone 5: Cart and Checkout
+
+### Activities Completed
+
+* Implemented Add to Cart functionality.
+* Created Cart Screen.
+* Developed Checkout Screen.
+* Integrated WhatsApp ordering process.
+
+### Outcome
+
+Users can select products and place orders through WhatsApp.
+
+
+
+## Milestone 6: User Profile
+
+### Activities Completed
+
+* Developed Profile Screen.
+* Implemented Logout functionality.
+
+### Outcome
+
+Users can manage their account information and securely exit the application.
+
+
+
+## Challenges Encountered
+
+### Challenge 1
+
+Configuring navigation between multiple screens.
+
+### Solution
+
+Implemented React Navigation stack navigator.
+
+### Challenge 2
+
+Designing a simple but attractive user interface.
+
+### Solution
+
+Applied consistent styling and responsive layouts.
+
+### Challenge 3
+
+Integrating WhatsApp checkout.
+
+### Solution
+
+Used React Native Linking API to open WhatsApp with order information.
+
+
+
+## Lessons Learned
+
+* Mobile applications require proper navigation planning.
+* React Native enables rapid cross-platform development.
+* Expo simplifies testing on physical devices.
+* GitHub is useful for version control and project management.
+* User interface design significantly affects user experience.
+
+
